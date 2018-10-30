@@ -1,0 +1,29 @@
+body{
+    display: flex;
+}
+
+#contenido{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    background: #3bbb7b;
+}
+
+#box{
+    background: #becf59;
+    display: flex;
+}
+
+#gal div{
+    display: flex;
+    flex-direction: wrap row;
+    width: 33%;
+}
+
+#gal div img{
+    width: 400px;
+    height: 400px;
+}
