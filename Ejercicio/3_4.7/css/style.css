@@ -1,8 +1,27 @@
 .cinema-body{
-    background: url(../img/cartelera.jpg);
+    background: url(../img/fondo.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     height: 100%;
     width: 100%;
 }
+ 
+nav{
+    background: ghostwhite;      
+}
+
+#logo{
+    max-width: 100px;
+    max-height: 50px;
+}
+
+.jumbotron {
+    background: url(../img/cartelera.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    min-height: 500px;
+    border-radius: 0px !important;
+    margin-bottom: 0px;
+  }
