@@ -1,0 +1,8 @@
+.cinema-body{
+    background: url(../img/cartelera.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
